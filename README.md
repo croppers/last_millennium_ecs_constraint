@@ -3,7 +3,7 @@
 ## Python Notebooks
 ### gen_ec_data.ipynb
 * constructs the variability metrics relevant to the emergent constraints
-* uses the timeseries data available in 'data/ts.csv' and the ecs values from 'data/ecs.csv'
+* uses the timeseries data available from the PMIP4 project (https://pmip4.lsce.ipsl.fr/) and the ecs values from 'data/ecs.csv'
 
 ### pp2k-ppe-pda.ipynb
 * draws heavily from Feng Zhu's pseudoPAGES2k project: https://github.com/fzhu2e/paper-pseudoPAGES2k
