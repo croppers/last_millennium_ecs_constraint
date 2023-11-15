@@ -1,4 +1,5 @@
-# Code for Reproducing Cropper et al. (under review)
+# Code for Reproducing Cropper et al. (2023)
+https://doi.org/10.1029/2023GL104126
 
 ## Python Notebooks
 ### gen_ec_data.ipynb
